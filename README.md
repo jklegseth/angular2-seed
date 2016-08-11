@@ -1,5 +1,5 @@
 # angular2-seed
-Mostly for my own quick-start Angular 2 projects, this is a bare bones starter that I will keep updated through all release candidates (currently rc.5) until officially released. This is basically the seed you will find in the official docs ["5 Min Quickstart"](https://angular.io/docs/ts/latest/quickstart.html).
+Mostly for my own quick-start Angular 2 projects, this is a bare bones starter that I will keep updated through all release candidates (currently rc.5) until officially released. This is basically the seed you will find in the official docs ["5 Min Quickstart"](https://angular.io/docs/ts/latest/quickstart.html); the exception is I have added the stylesheet at `/assets/stylesheets/styles.css` rather than Angular's proposed `/styles.css`.
 
 ## Installation
 Clone or download zip to a new directory.
